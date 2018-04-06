@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="Practical5_1.css"?>
+<!DOCTYPE BANK SYSTEM "Practical5_1.dtd">
+<BANK>
+    <ACCOUNT>
+        <Acc_name>Harvey Specter</Acc_name>
+        <Acc_no>64132318612</Acc_no>
+        <Branch>Queens</Branch>
+        <IFSC_no>KDLD6984235</IFSC_no>
+    </ACCOUNT>
+    <ACCOUNT>
+        <Acc_name>Mike Ross</Acc_name>
+        <Acc_no>61323946654</Acc_no>
+        <Branch>Manhattan</Branch>
+        <IFSC_no>PFDJ3287456</IFSC_no>
+    </ACCOUNT>
+    <ACCOUNT>
+        <Acc_name>Jessica Pearson</Acc_name>
+        <Acc_no>34844354646</Acc_no>
+        <Branch>Brooklyn</Branch>
+        <IFSC_no>NFKS9536412</IFSC_no>
+    </ACCOUNT>
+    <ACCOUNT>
+        <Acc_name>Rachel Zane</Acc_name>
+        <Acc_no>66439465465</Acc_no>
+        <Branch>29th Street</Branch>
+        <IFSC_no>IEJS5605461</IFSC_no>
+    </ACCOUNT>
+</BANK>

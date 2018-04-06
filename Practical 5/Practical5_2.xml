@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Student xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Practical5_2.xsd">
+    <Name>Elena Gilbert</Name>
+    <Address>Mysticfalls</Address>
+    <Std>12</Std>
+    <Per>87.55</Per>
+</Student>
